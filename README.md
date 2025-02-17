@@ -5,7 +5,7 @@
 I am a seasoned software developer with over 20 years of experience building scalable, maintainable, and secure applications. My expertise spans the full stack, including backend services in .NET, Python, and Java, as well as modern frontend development. I also have experience with Swift for iOS development.
 
 Currently, I'm exploring:
-- 🏗  Building open-source libraries and tools
+- 🏗 Building open-source libraries and tools
 - 🚀 Smart Home Automation using Java and Raspberry Pi
 - 📜 Working with NDJSON and structured document generation
 - 📊 Processing large datasets for AI and Retrieval-Augmented Generation (RAG)
@@ -16,20 +16,19 @@ I enjoy solving complex problems, improving legacy codebases, and learning new t
 
 ## 🚀 Tech Stack
 
-- **Backend Development**:  
-  - C#, .NET 8, ASP.NET Core  
-  - SQL Server (database design, stored procedures, optimized indexes)
-  - SQL Server (database design, stored procedures, optimized indexes)
-  - Java (for IoT/Smart Home Automation, Android development)
-  - Swift (iOS development)
-  - JavaScript/TypeScript (Angular, React)
-  - Python (Jupyter, Pandas, NumPy, DuckDB)
-  - Multi-project architecture, including reusable libraries  
+- **Backend Development**:
+  - C#, .NET 8, ASP.NET Core
+  - SQL Server (database design, stored procedures, optimized indexes)
+  - Java (for IoT/Smart Home Automation, Android development)
+  - Swift (iOS development)
+  - JavaScript/TypeScript (Angular, React)
+  - Python (Jupyter, Pandas, NumPy, DuckDB)
+  - Multi-project architecture, including reusable libraries  
 
-- **Frontend Development**:  
-  - Angular (with deployment expertise)  
-  - Fluent Design System for Windows applications  
-  - JavaScript/TypeScript  
+- **Frontend Development**:
+  - Angular (with deployment expertise)
+  - Fluent Design System for Windows applications
+  - JavaScript/TypeScript  
 
 ## 🏗 Current Open-Source Projects
  
